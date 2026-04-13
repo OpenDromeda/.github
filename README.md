@@ -38,21 +38,7 @@ We believe the governance layer for AI tools should be:
 
 ---
 
-## Ecosystem
 
-| Project | What | Status |
-
-|---|---|---|
-
-| [MCC](https://github.com/OpenDromeda/modelcontextcontrol) | Governance layer for MCP | 🟢 live |
-
-| [modelcontextcontrol.io](https://modelcontextcontrol.io) | Documentation & specs | 🟢 live |
-
-| [evolution-ki.com](https://evolution-ki.com) | Platform manifesto | 🟢 live |
-
-| AndroKI | AI agent platform | 🟡 in development |
-
----
 
 ## Get involved
 
