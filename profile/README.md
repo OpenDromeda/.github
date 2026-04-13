@@ -38,10 +38,10 @@ We believe the governance layer for AI tools should be:
 
 | Project | What | Status |
 |---|---|---|
-| [MCC](https://github.com/OpenDromeda/modelcontextcontrol) | Governance layer for MCP | 🟢 live |
-| [modelcontextcontrol.io](https://modelcontextcontrol.io) | Documentation & specs | 🟢 live |
+| [MCC](https://github.com/OpenDromeda/modelcontextcontrol) | Governance layer for MCP | 🟢 live | under constuction
+| [modelcontextcontrol.io](https://modelcontextcontrol.io) | Documentation & specs | 🟢 live | under constuction
 | [evolution-ki.com](https://evolution-ki.com) | Platform manifesto | 🟢 live |
-| AndroKI | AI agent platform | 🟡 in development |
+| EVOKI V5 | AI agent platform | 🟡 in development |
 
 ---
 
